@@ -1,0 +1,10 @@
+creation date 30-08-2024
+in this project i will developing a Framework from scratch based on company standard i will be creating project as follow:-
+1. Project Name
+       Features(folder)
+       PageObjects(Package)
+       StepDefinition
+       Utilities
+       Drivers(optional)
+       Target(For Reports)
+       Pom.xm
